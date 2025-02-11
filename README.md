@@ -1,6 +1,6 @@
 # test8-pru12-fw
 
-### Manual assignment of roles to SPN created via portal
+### Manual assignment of roles to SPN pru12-fw-spn created via portal
 - Reader and Data Access on tfstate storage account
 - Storage Blob Data Contributor on tfstate storage account
 - Network Contributor on connectivity subscription
