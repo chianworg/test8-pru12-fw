@@ -1,5 +1,11 @@
 # test8-pru12-fw
 
+### Manual assignment of roles to SPN created via portal
+- Reader and Data Access on tfstate storage account
+- Storage Blob Data Contributor on tfstate storage account
+- Network Contributor on connectivity subscription
+
+
 ### Pre-requisites:
 - new service principal with permissions to read/write tfstate storage account and perform CRUD operations on firewall policy
 - configure service principal for federated credentials with this GH repo
